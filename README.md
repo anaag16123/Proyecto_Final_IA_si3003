@@ -46,7 +46,7 @@ pequeño del centro de Medellín:
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/OrianaVR/Proyecto_Final_IA_si3003.git
+git clone https://github.com/anaag16123/Proyecto_Final_IA_si3003.git
 cd Proyecto_Final_IA_si3003
 
 # 2. Crear y activar el entorno virtual
