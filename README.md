@@ -13,6 +13,9 @@ pequeño del centro de Medellín:
 > emisiones) y el asistente puede equivocarse. No constituye consejo de movilidad, seguridad, legal ni médico;
 > consulta siempre la información oficial del Metro de Medellín.
 
+- **LINK AL VIDEO DE SUSTENTACIÓN:** : https://www.youtube.com/watch?feature=shared&v=VCKQQZ6ihTw
+  
+
 ## Contenido
 
 1. [Qué necesitas antes de empezar](#1-qué-necesitas-antes-de-empezar)
